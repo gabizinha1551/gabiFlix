@@ -64,3 +64,18 @@ body {
 
     margin: 0 6em;
 }
+.secundario__imagem { 
+  width: 80%;
+}
+
+.secundario { 
+   align-items: center;
+   margin: 0 10em;
+}
+
+.descricao__titulo { 
+   font-weight: 700;
+   font-size: 48px;
+   coçor: var(--branco-pincipal);
+   margin-bottom: 0.1em;
+}
